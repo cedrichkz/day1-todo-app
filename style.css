@@ -70,6 +70,24 @@ button{
     border-radius: 40px;
 }
 
+footer{
+    position: centered;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #002765;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+footer a{
+    color: #ffffff;
+    text-decoration: undeline;
+}
+footer a:hover{
+    text-decoration: none;
+}
+
 button:hover{
     background: #5b5b5b;
 }
