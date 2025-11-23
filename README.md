@@ -2,3 +2,5 @@
 This is day 1 of my coding challenge. A todo app with CSS, HTML and JS
 
 Tutorial I followed: https://www.youtube.com/watch?v=G0jO8kUrg-I
+
+glass effect: https://www.youtube.com/watch?v=n77yqF5fdBE
